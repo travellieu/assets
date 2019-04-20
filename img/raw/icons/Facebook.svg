@@ -1,6 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500pt" height="500pt" viewBox="0 0 500 500" version="1.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4267B2;}
+</style>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:#5B5B5B;fill-opacity:1;" d="M 250 20 C 123.179688 20 20 123.171875 20 250 C 20 376.828125 123.179688 480 250 480 C 376.828125 480 480 376.828125 480 250 C 480 123.171875 376.828125 20 250 20 Z M 320 160 L 287.101563 160 C 267.71875 160 260 164.550781 260 178.058594 L 260 210 L 320 210 L 310 260 L 260 260 L 260 390 L 200 390 L 200 260 L 170 260 L 170 210 L 200 210 L 200 182.261719 C 200 140.011719 216.859375 110 265.808594 110 C 292.03125 110 320 120 320 120 Z "/>
+	<path class="st0" d="M250,20C123.2,20,20,123.2,20,250s103.2,230,230,230c126.8,0,230-103.2,230-230S376.8,20,250,20z M320,160
+		h-32.9c-19.4,0-27.1,4.6-27.1,18.1V210h60l-10,50h-50v130h-60V260h-30v-50h30v-27.7c0-42.3,16.9-72.3,65.8-72.3
+		c26.2,0,54.2,10,54.2,10V160z"/>
 </g>
 </svg>
